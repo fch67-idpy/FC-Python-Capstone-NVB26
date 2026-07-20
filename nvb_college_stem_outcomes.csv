@@ -1,0 +1,301 @@
+student_id,university,major,year,credits_completed,cumulative_gpa,internship_completed,research_experience,clubs_count,scholarship,employment_status,graduated_on_time
+C001,Tennessee State University,Chemical Engineering,Senior,117.0,3.65,1,0,4,0,Employed,1
+C002,Spelman College,Electrical Engineering,Junior,88.0,2.88,1,0,3,0,Not applicable,
+C003,Spelman College,Aerospace Engineering,Senior,129.0,3.32,1,1,3,0,Employed,1
+C004,Prairie View A&M,Aerospace Engineering,Freshman,40.0,3.0,0,0,4,0,Not applicable,
+C005,Virginia Tech,Chemical Engineering,Sophomore,73.0,2.88,0,0,4,0,Not applicable,
+C006,Prairie View A&M,Biomedical Engineering,Senior,130.0,3.41,1,0,3,0,Grad School,1
+C007,North Carolina A&T,Mechanical Engineering,Junior,83.0,3.23,0,0,3,0,,
+C008,Prairie View A&M,Data Science,Senior,129.0,2.66,0,0,1,0,Employed,0
+C009,Prairie View A&M,Aerospace Engineering,Junior,88.0,3.47,0,0,3,0,Not applicable,
+C010,Prairie View A&M,Aerospace Engineering,Junior,89.0,3.09,0,1,1,0,Not applicable,
+C011,Prairie View A&M,Electrical Engineering,Senior,103.0,2.28,1,0,3,0,Employed,1
+C012,Morgan State University,Chemical Engineering,Junior,88.0,2.57,0,0,3,0,Not applicable,
+C013,Prairie View A&M,Biomedical Engineering,Junior,102.0,3.87,0,0,2,1,Not applicable,
+C014,North Carolina A&T,Chemical Engineering,Senior,100.0,2.92,1,1,1,0,Employed,1
+C015,Howard University,Computer Science,Senior,116.0,2.76,1,0,3,0,Employed,1
+C016,Tennessee State University,Computer Science,Senior,113.0,3.29,1,1,3,0,Employed,1
+C017,Virginia Tech,Mechanical Engineering,Sophomore,61.0,3.44,0,1,3,0,Not applicable,
+C018,Howard University,Computer Science,Junior,98.0,2.91,0,1,3,0,Not applicable,
+C019,Howard University,Data Science,Junior,88.0,2.95,0,0,3,0,Not applicable,
+C020,Howard University,Chemical Engineering,Sophomore,53.0,3.67,0,0,2,1,Not applicable,
+C021,North Carolina A&T,Biomedical Engineering,Sophomore,61.0,4.0,1,0,3,0,Not applicable,
+C022,Florida A&M University,Civil Engineering,Sophomore,66.0,3.51,0,1,0,0,Not applicable,
+C023,North Carolina A&T,Aerospace Engineering,Senior,130.0,2.96,1,0,2,0,Employed,1
+C024,North Carolina A&T,Biomedical Engineering,Freshman,34.0,2.63,1,0,3,0,Not applicable,
+C025,Prairie View A&M,Mechanical Engineering,Junior,79.0,2.63,1,0,2,0,Not applicable,
+C026,Morgan State University,Civil Engineering,Sophomore,44.0,2.87,1,0,3,0,Not applicable,
+C027,Tennessee State University,Chemical Engineering,Senior,106.0,2.55,1,1,2,0,Employed,1
+C028,Prairie View A&M,Civil Engineering,Junior,82.0,2.97,0,1,1,0,Not applicable,
+C029,Howard University,Data Science,Freshman,35.0,2.73,0,0,2,0,Not applicable,
+C030,Tennessee State University,Mechanical Engineering,Junior,75.0,3.11,1,0,4,0,Not applicable,
+C031,Howard University,Biomedical Engineering,Junior,86.0,3.44,0,0,4,0,Not applicable,
+C032,Morgan State University,Biomedical Engineering,Sophomore,38.0,2.57,1,0,2,0,Not applicable,
+C033,Tennessee State University,Aerospace Engineering,Junior,106.0,3.84,1,0,5,1,Not applicable,
+C034,Prairie View A&M,Data Science,Senior,130.0,3.3,0,0,2,0,Not seeking,1
+C035,Virginia Tech,Electrical Engineering,Sophomore,75.0,2.84,1,1,2,0,Not applicable,
+C036,Tennessee State University,Computer Science,Junior,90.0,3.12,1,1,2,0,Not applicable,
+C037,Tennessee State University,Electrical Engineering,Freshman,16.0,2.78,0,0,4,0,Not applicable,
+C038,Tennessee State University,Chemical Engineering,Sophomore,60.0,3.13,0,0,0,0,Not applicable,
+C039,North Carolina A&T,Mechanical Engineering,Freshman,25.0,2.38,0,0,3,0,Not applicable,
+C040,North Carolina A&T,Chemical Engineering,Senior,130.0,3.24,1,1,3,0,Employed,1
+C041,Virginia Tech,Chemical Engineering,Sophomore,69.0,3.07,1,0,2,0,Not applicable,
+C042,Spelman College,Biomedical Engineering,Sophomore,59.0,3.01,0,0,2,0,Not applicable,
+C043,Virginia Tech,Biomedical Engineering,Sophomore,58.0,3.06,1,1,2,0,Not applicable,
+C044,Florida A&M University,Civil Engineering,Junior,86.0,2.81,0,0,2,0,Not applicable,
+C045,North Carolina A&T,Civil Engineering,Junior,95.0,3.26,1,1,3,0,Not applicable,
+C046,Prairie View A&M,Mechanical Engineering,Freshman,30.0,2.29,0,0,3,0,Not applicable,
+C047,Spelman College,Aerospace Engineering,Sophomore,50.0,3.42,0,0,2,0,Not applicable,
+C048,Spelman College,Computer Science,Sophomore,62.0,2.86,0,0,3,0,Not applicable,
+C049,Morgan State University,Aerospace Engineering,Junior,,2.04,1,0,2,0,Not applicable,
+C050,Spelman College,Biomedical Engineering,Senior,115.0,3.56,1,0,2,1,Grad School,1
+C051,Spelman College,Biomedical Engineering,Senior,112.0,2.6,1,1,2,0,Employed,1
+C052,Spelman College,Mechanical Engineering,Freshman,30.0,2.49,1,0,2,0,Not applicable,
+C053,Spelman College,Computer Science,Senior,122.0,3.22,1,0,0,0,Grad School,1
+C054,Morgan State University,Data Science,Junior,82.0,2.61,1,1,3,0,Not applicable,
+C055,Tennessee State University,Electrical Engineering,Senior,123.0,2.91,1,0,3,0,Employed,1
+C056,Morgan State University,Civil Engineering,Senior,126.0,2.96,1,1,2,0,Employed,1
+C057,Morgan State University,Civil Engineering,Junior,94.0,2.71,0,1,3,0,Not applicable,
+C058,Virginia Tech,Electrical Engineering,Junior,78.0,2.88,0,0,2,0,Not applicable,
+C059,Virginia Tech,Biomedical Engineering,Senior,118.0,2.25,1,0,3,0,Employed,1
+C060,Florida A&M University,Aerospace Engineering,Junior,84.0,2.2,1,0,2,0,Not applicable,
+C061,Prairie View A&M,Mechanical Engineering,Sophomore,63.0,3.77,0,0,3,1,Not applicable,
+C062,North Carolina A&T,Mechanical Engineering,Freshman,24.0,3.33,0,0,2,0,Not applicable,
+C063,Prairie View A&M,Data Science,Sophomore,67.0,3.36,1,0,2,0,Not applicable,
+C064,Spelman College,Mechanical Engineering,Junior,81.0,2.69,0,0,4,0,Not applicable,
+C065,Florida A&M University,Computer Science,Senior,128.0,3.31,1,1,3,0,Grad School,1
+C066,Morgan State University,Mechanical Engineering,Freshman,35.0,2.39,0,0,1,0,Not applicable,
+C067,Tennessee State University,Computer Science,Sophomore,63.0,3.01,0,1,2,0,Not applicable,
+C068,Florida A&M University,Computer Science,Senior,114.0,3.08,0,0,2,0,Employed,1
+C069,Prairie View A&M,Electrical Engineering,Sophomore,70.0,2.83,0,1,3,0,Not applicable,
+C070,Tennessee State University,Mechanical Engineering,Freshman,16.0,2.66,0,0,4,0,Not applicable,
+C071,Tennessee State University,Biomedical Engineering,Sophomore,54.0,2.72,0,0,2,0,Not applicable,
+C072,Morgan State University,Data Science,Junior,94.0,2.51,0,0,3,0,Not applicable,
+C073,Morgan State University,Aerospace Engineering,Senior,113.0,3.24,1,1,3,0,Grad School,1
+C074,Tennessee State University,Data Science,Senior,118.0,3.43,0,0,2,0,Grad School,1
+C075,Virginia Tech,Computer Science,Junior,97.0,2.32,0,1,4,0,Not applicable,
+C076,Tennessee State University,Aerospace Engineering,Freshman,31.0,2.07,0,0,2,0,Not applicable,
+C077,Florida A&M University,Biomedical Engineering,Senior,124.0,3.38,1,1,3,0,Employed,1
+C078,Prairie View A&M,Mechanical Engineering,Senior,120.0,3.45,0,0,2,0,Employed,1
+C079,North Carolina A&T,Mechanical Engineering,Junior,100.0,2.98,0,0,2,0,Not applicable,
+C080,Tennessee State University,Aerospace Engineering,Senior,130.0,3.25,0,0,3,0,Not seeking,1
+C081,Howard University,Data Science,Junior,87.0,3.43,1,1,2,0,Not applicable,
+C082,Virginia Tech,Electrical Engineering,Junior,70.0,2.79,0,0,1,0,Not applicable,
+C083,Morgan State University,Mechanical Engineering,Sophomore,45.0,,0,0,3,0,Not applicable,
+C084,Florida A&M University,Chemical Engineering,Sophomore,61.0,3.12,1,0,1,0,Not applicable,
+C085,Florida A&M University,Aerospace Engineering,Freshman,25.0,2.31,0,0,2,0,Not applicable,
+C086,Morgan State University,Biomedical Engineering,Senior,130.0,2.94,1,0,1,0,Not seeking,1
+C087,Tennessee State University,Chemical Engineering,Senior,110.0,,1,0,3,0,Employed,1
+C088,Tennessee State University,Chemical Engineering,Senior,130.0,3.88,0,0,2,0,Employed,1
+C089,Morgan State University,Computer Science,Freshman,24.0,3.39,0,0,3,0,Not applicable,
+C090,Morgan State University,Data Science,Junior,88.0,3.05,1,0,2,0,Not applicable,
+C091,Spelman College,Biomedical Engineering,Junior,82.0,3.02,0,1,2,0,Not applicable,
+C092,Florida A&M University,Aerospace Engineering,Sophomore,38.0,2.99,1,0,3,0,Not applicable,
+C093,Spelman College,Mechanical Engineering,Junior,85.0,3.08,0,0,3,0,Not applicable,
+C094,Florida A&M University,Data Science,Freshman,36.0,3.62,1,0,1,0,Not applicable,
+C095,North Carolina A&T,Electrical Engineering,Junior,98.0,3.22,0,0,3,0,Not applicable,
+C096,North Carolina A&T,Aerospace Engineering,Junior,102.0,2.97,1,0,4,0,Not applicable,
+C097,Prairie View A&M,Civil Engineering,Junior,102.0,3.24,0,0,3,0,Not applicable,
+C098,Morgan State University,Data Science,Junior,85.0,3.13,1,1,2,0,,
+C099,Virginia Tech,Computer Science,Junior,81.0,3.41,1,0,2,0,Not applicable,
+C100,Morgan State University,Civil Engineering,Senior,109.0,3.46,1,1,4,0,Grad School,1
+C101,Florida A&M University,Chemical Engineering,Freshman,29.0,2.56,0,0,2,0,Not applicable,
+C102,Morgan State University,Chemical Engineering,Freshman,27.0,2.42,0,0,4,0,Not applicable,
+C103,North Carolina A&T,Data Science,Sophomore,41.0,2.96,1,0,2,0,Not applicable,
+C104,Morgan State University,Data Science,Senior,110.0,3.47,1,0,3,0,Employed,1
+C105,Virginia Tech,Chemical Engineering,Sophomore,62.0,3.04,1,0,3,0,Not applicable,
+C106,Florida A&M University,Mechanical Engineering,Freshman,33.0,3.52,0,0,2,1,Not applicable,
+C107,Florida A&M University,Biomedical Engineering,Senior,127.0,2.84,1,0,2,0,Employed,1
+C108,Morgan State University,Biomedical Engineering,Freshman,29.0,3.12,0,0,4,0,Not applicable,
+C109,Morgan State University,Mechanical Engineering,Sophomore,83.0,2.55,0,0,3,0,Not applicable,
+C110,Virginia Tech,Aerospace Engineering,Freshman,38.0,2.8,1,0,2,0,Not applicable,
+C111,North Carolina A&T,Chemical Engineering,Freshman,34.0,3.37,0,0,2,0,Not applicable,
+C112,Morgan State University,Biomedical Engineering,Junior,102.0,2.84,0,1,1,0,Not applicable,
+C113,North Carolina A&T,Data Science,Sophomore,47.0,2.72,0,0,3,0,Not applicable,
+C114,Spelman College,Computer Science,Sophomore,60.0,3.33,0,1,4,0,Not applicable,
+C115,Spelman College,Aerospace Engineering,Freshman,22.0,2.34,0,0,1,0,Not applicable,
+C116,Spelman College,Aerospace Engineering,Sophomore,57.0,3.18,0,0,1,0,Not applicable,
+C117,Prairie View A&M,Aerospace Engineering,Senior,113.0,3.63,0,0,3,1,Employed,1
+C118,Prairie View A&M,Electrical Engineering,Junior,92.0,3.76,1,0,2,1,Not applicable,
+C119,Morgan State University,Civil Engineering,Freshman,40.0,2.84,0,0,5,0,Not applicable,
+C120,Tennessee State University,Mechanical Engineering,Sophomore,60.0,2.38,1,0,1,0,Not applicable,
+C121,Prairie View A&M,Electrical Engineering,Junior,101.0,3.14,0,0,2,0,Not applicable,
+C122,North Carolina A&T,Computer Science,Junior,103.0,3.18,1,1,3,0,Not applicable,
+C123,Tennessee State University,Chemical Engineering,Junior,87.0,3.24,1,1,4,0,Not applicable,
+C124,Virginia Tech,Aerospace Engineering,Freshman,28.0,2.68,0,0,2,0,Not applicable,
+C125,Virginia Tech,Mechanical Engineering,Junior,95.0,3.15,0,0,2,0,Not applicable,
+C126,Prairie View A&M,Electrical Engineering,Sophomore,58.0,3.26,0,0,3,0,Not applicable,
+C127,Tennessee State University,Biomedical Engineering,Junior,92.0,3.3,1,0,2,0,Not applicable,
+C128,Howard University,Biomedical Engineering,Freshman,24.0,3.33,0,0,5,0,Not applicable,
+C129,Prairie View A&M,Computer Science,Senior,116.0,3.26,0,0,2,0,Employed,1
+C130,Virginia Tech,Civil Engineering,Junior,76.0,2.76,1,0,4,0,Not applicable,
+C131,Spelman College,Civil Engineering,Senior,128.0,3.26,0,0,2,0,Employed,1
+C132,North Carolina A&T,Data Science,Sophomore,75.0,3.26,0,0,2,0,Not applicable,
+C133,Florida A&M University,Data Science,Freshman,41.0,3.25,0,0,4,0,Not applicable,
+C134,Morgan State University,Chemical Engineering,Junior,75.0,3.24,1,0,1,0,Not applicable,
+C135,Howard University,Aerospace Engineering,Freshman,28.0,2.69,0,0,1,0,Not applicable,
+C136,Morgan State University,Data Science,Junior,80.0,3.27,1,1,3,0,,
+C137,Florida A&M University,Chemical Engineering,Sophomore,60.0,2.34,0,0,2,0,Not applicable,
+C138,Tennessee State University,Mechanical Engineering,Freshman,21.0,3.18,1,1,1,0,Not applicable,
+C139,Howard University,Computer Science,Freshman,25.0,3.47,1,0,2,0,Not applicable,
+C140,Prairie View A&M,Aerospace Engineering,Sophomore,64.0,2.69,0,0,0,0,Not applicable,
+C141,Prairie View A&M,Aerospace Engineering,Senior,109.0,3.38,1,0,1,0,Employed,1
+C142,Prairie View A&M,Aerospace Engineering,Freshman,38.0,2.99,0,0,4,0,Not applicable,
+C143,Howard University,Biomedical Engineering,Senior,116.0,3.27,1,0,2,0,Employed,1
+C144,Spelman College,Aerospace Engineering,Junior,84.0,,0,0,4,0,Not applicable,
+C145,Florida A&M University,Electrical Engineering,Freshman,23.0,2.28,1,0,3,0,Not applicable,
+C146,Tennessee State University,Mechanical Engineering,Sophomore,68.0,3.2,0,0,3,0,Not applicable,
+C147,Spelman College,Data Science,Senior,115.0,3.24,1,0,2,0,Employed,1
+C148,Florida A&M University,Aerospace Engineering,Junior,83.0,2.71,0,0,1,0,Not applicable,
+C149,Morgan State University,Mechanical Engineering,Freshman,24.0,2.86,0,0,4,0,Not applicable,
+C150,Spelman College,Aerospace Engineering,Freshman,38.0,2.86,0,0,4,0,Not applicable,
+C151,Virginia Tech,Aerospace Engineering,Junior,94.0,2.57,0,0,0,0,Not applicable,
+C152,North Carolina A&T,Data Science,Senior,116.0,3.04,0,0,2,0,Employed,1
+C153,Florida A&M University,Biomedical Engineering,Junior,95.0,2.64,0,0,1,0,Not applicable,
+C154,Florida A&M University,Data Science,Sophomore,61.0,2.53,0,1,4,0,Not applicable,
+C155,Virginia Tech,Computer Science,Sophomore,48.0,3.14,0,0,3,0,,
+C156,Tennessee State University,Data Science,Junior,98.0,2.58,1,0,2,0,Not applicable,
+C157,Howard University,Mechanical Engineering,Sophomore,56.0,3.29,1,1,1,0,Not applicable,
+C158,Morgan State University,Aerospace Engineering,Sophomore,55.0,2.93,0,0,4,0,Not applicable,
+C159,Virginia Tech,Civil Engineering,Junior,86.0,3.16,0,0,2,0,Not applicable,
+C160,Prairie View A&M,Electrical Engineering,Senior,120.0,,1,1,1,0,Grad School,0
+C161,North Carolina A&T,Computer Science,Junior,96.0,3.28,1,1,4,0,Not applicable,
+C162,Howard University,Computer Science,Senior,126.0,3.35,1,0,1,0,Employed,1
+C163,Virginia Tech,Data Science,Senior,114.0,2.62,0,0,4,0,Employed,0
+C164,Virginia Tech,Electrical Engineering,Junior,77.0,3.0,0,0,2,0,Not applicable,
+C165,Florida A&M University,Biomedical Engineering,Senior,114.0,3.87,1,1,3,1,Employed,0
+C166,North Carolina A&T,Civil Engineering,Senior,116.0,3.48,1,0,3,0,Grad School,1
+C167,Spelman College,Data Science,Sophomore,65.0,2.74,1,0,4,0,Not applicable,
+C168,Florida A&M University,Civil Engineering,Junior,91.0,2.39,0,0,4,0,Not applicable,
+C169,North Carolina A&T,Aerospace Engineering,Junior,94.0,2.97,1,0,1,0,Not applicable,
+C170,Morgan State University,Electrical Engineering,Junior,81.0,3.05,0,0,3,0,Not applicable,
+C171,Tennessee State University,Computer Science,Freshman,27.0,3.83,1,0,4,1,Not applicable,
+C172,Spelman College,Biomedical Engineering,Junior,91.0,3.45,0,1,3,0,Not applicable,
+C173,Howard University,Computer Science,Freshman,8.0,3.01,0,0,3,0,Not applicable,
+C174,Prairie View A&M,Biomedical Engineering,Senior,123.0,3.7,0,0,4,1,Employed,1
+C175,Tennessee State University,Data Science,Freshman,30.0,3.28,0,0,0,0,Not applicable,
+C176,Morgan State University,Civil Engineering,Sophomore,63.0,3.47,0,0,0,0,Not applicable,
+C177,Florida A&M University,Chemical Engineering,Junior,98.0,3.3,1,0,4,0,Not applicable,
+C178,Florida A&M University,Civil Engineering,Senior,114.0,3.58,0,0,2,0,Grad School,1
+C179,Virginia Tech,Computer Science,Freshman,41.0,1.86,0,0,2,0,Not applicable,
+C180,North Carolina A&T,Biomedical Engineering,Sophomore,70.0,2.49,0,0,3,0,Not applicable,
+C181,Howard University,Computer Science,Senior,107.0,2.67,1,0,2,0,Employed,1
+C182,Virginia Tech,Electrical Engineering,Sophomore,62.0,2.69,1,1,4,0,Not applicable,
+C183,Spelman College,Electrical Engineering,Junior,94.0,2.48,0,0,1,0,Not applicable,
+C184,Prairie View A&M,Civil Engineering,Junior,90.0,3.57,0,1,3,0,Not applicable,
+C185,Virginia Tech,Electrical Engineering,Freshman,,2.23,0,0,0,0,Not applicable,
+C186,North Carolina A&T,Data Science,Junior,91.0,3.39,0,1,1,0,Not applicable,
+C187,North Carolina A&T,Aerospace Engineering,Junior,103.0,3.59,1,0,2,1,Not applicable,
+C188,Prairie View A&M,Civil Engineering,Senior,114.0,2.84,0,0,2,0,Employed,1
+C189,Spelman College,Biomedical Engineering,Sophomore,54.0,2.56,0,0,1,0,Not applicable,
+C190,Virginia Tech,Electrical Engineering,Senior,130.0,2.68,0,0,2,0,Employed,1
+C191,Prairie View A&M,Aerospace Engineering,Senior,112.0,3.61,1,0,2,1,Employed,1
+C192,Virginia Tech,Aerospace Engineering,Junior,92.0,2.9,1,0,2,0,Not applicable,
+C193,Florida A&M University,Aerospace Engineering,Freshman,31.0,3.03,1,0,3,0,Not applicable,
+C194,Virginia Tech,Mechanical Engineering,Senior,121.0,3.84,1,1,3,1,Employed,1
+C195,Howard University,Mechanical Engineering,Freshman,22.0,2.69,0,0,2,0,Not applicable,
+C196,Tennessee State University,Chemical Engineering,Senior,128.0,3.01,1,0,3,0,Not seeking,1
+C197,Virginia Tech,Mechanical Engineering,Junior,98.0,3.24,1,1,2,0,Not applicable,
+C198,Florida A&M University,Mechanical Engineering,Junior,93.0,2.8,0,0,2,0,Not applicable,
+C199,Florida A&M University,Biomedical Engineering,Junior,96.0,2.18,0,0,3,0,Not applicable,
+C200,Tennessee State University,Computer Science,Sophomore,60.0,3.07,0,0,1,0,Not applicable,
+C201,Florida A&M University,Civil Engineering,Junior,86.0,3.64,0,1,4,0,Not applicable,
+C202,Tennessee State University,Data Science,Senior,,3.14,0,1,3,0,Employed,1
+C203,Howard University,Chemical Engineering,Sophomore,60.0,2.95,1,0,2,0,Not applicable,
+C204,Howard University,Aerospace Engineering,Sophomore,69.0,2.81,1,0,4,0,Not applicable,
+C205,Howard University,Civil Engineering,Junior,68.0,2.45,0,1,1,0,Not applicable,
+C206,Tennessee State University,Chemical Engineering,Sophomore,54.0,3.22,0,0,2,0,Not applicable,
+C207,Howard University,Mechanical Engineering,Senior,116.0,,1,1,1,1,Employed,1
+C208,Prairie View A&M,Mechanical Engineering,Senior,120.0,3.31,1,0,2,0,Grad School,1
+C209,Florida A&M University,Biomedical Engineering,Senior,130.0,3.38,0,1,2,0,Employed,1
+C210,Tennessee State University,Aerospace Engineering,Junior,98.0,3.16,0,1,2,0,Not applicable,
+C211,Spelman College,Electrical Engineering,Sophomore,52.0,2.71,1,0,1,0,Not applicable,
+C212,Virginia Tech,Data Science,Senior,111.0,3.24,1,1,3,0,Grad School,1
+C213,Virginia Tech,Chemical Engineering,Senior,123.0,2.46,0,0,2,0,Employed,0
+C214,Prairie View A&M,Computer Science,Junior,91.0,2.9,1,0,2,0,Not applicable,
+C215,Howard University,Civil Engineering,Senior,109.0,3.12,0,1,4,0,Employed,0
+C216,Prairie View A&M,Aerospace Engineering,Junior,92.0,2.89,0,1,3,0,Not applicable,
+C217,Morgan State University,Mechanical Engineering,Junior,78.0,3.5,0,1,2,0,Not applicable,
+C218,Morgan State University,Computer Science,Freshman,33.0,3.42,0,0,4,0,Not applicable,
+C219,Spelman College,Mechanical Engineering,Sophomore,60.0,2.52,0,0,3,0,Not applicable,
+C220,Prairie View A&M,Chemical Engineering,Senior,129.0,2.64,1,0,1,0,Grad School,1
+C221,North Carolina A&T,Mechanical Engineering,Junior,83.0,3.42,0,0,2,0,Not applicable,
+C222,Morgan State University,Data Science,Junior,86.0,2.74,0,0,3,0,Not applicable,
+C223,Spelman College,Mechanical Engineering,Sophomore,59.0,2.71,0,0,1,0,Not applicable,
+C224,Tennessee State University,Computer Science,Freshman,35.0,2.63,0,0,2,0,Not applicable,
+C225,Florida A&M University,Biomedical Engineering,Junior,85.0,3.01,1,1,4,0,Not applicable,
+C226,Virginia Tech,Aerospace Engineering,Senior,111.0,2.53,0,0,0,0,Employed,1
+C227,Virginia Tech,Computer Science,Senior,130.0,2.87,1,0,2,0,Employed,1
+C228,Morgan State University,Biomedical Engineering,Junior,98.0,3.34,0,1,3,0,Not applicable,
+C229,Spelman College,Electrical Engineering,Junior,79.0,3.43,0,0,3,0,Not applicable,
+C230,Morgan State University,Civil Engineering,Senior,114.0,3.64,1,0,2,1,Employed,1
+C231,Prairie View A&M,Chemical Engineering,Freshman,41.0,3.24,0,0,2,0,Not applicable,
+C232,Virginia Tech,Data Science,Freshman,26.0,2.67,0,0,3,0,Not applicable,
+C233,Spelman College,Chemical Engineering,Senior,121.0,3.68,0,0,5,1,Employed,1
+C234,North Carolina A&T,Aerospace Engineering,Sophomore,53.0,2.86,0,0,1,0,Not applicable,
+C235,Florida A&M University,Chemical Engineering,Junior,87.0,2.48,0,1,2,0,Not applicable,
+C236,North Carolina A&T,Biomedical Engineering,Senior,126.0,2.68,1,1,2,0,Employed,1
+C237,Howard University,Chemical Engineering,Senior,119.0,3.29,0,0,4,0,Employed,1
+C238,Spelman College,Mechanical Engineering,Junior,101.0,2.82,1,0,2,0,Not applicable,
+C239,Florida A&M University,Biomedical Engineering,Junior,99.0,3.26,1,0,3,0,Not applicable,
+C240,Florida A&M University,Aerospace Engineering,Junior,97.0,3.7,0,0,5,1,Not applicable,
+C241,Virginia Tech,Mechanical Engineering,Sophomore,55.0,3.49,0,0,3,0,Not applicable,
+C242,Tennessee State University,Biomedical Engineering,Sophomore,51.0,2.67,0,0,1,0,Not applicable,
+C243,Florida A&M University,Chemical Engineering,Senior,128.0,2.71,1,0,2,0,Employed,1
+C244,Tennessee State University,Data Science,Sophomore,43.0,3.3,0,0,3,0,,
+C245,Florida A&M University,Electrical Engineering,Junior,92.0,1.77,0,0,2,0,Not applicable,
+C246,Prairie View A&M,Chemical Engineering,Sophomore,64.0,1.99,0,1,3,0,Not applicable,
+C247,Tennessee State University,Computer Science,Junior,81.0,3.14,0,0,3,0,Not applicable,
+C248,Florida A&M University,Mechanical Engineering,Freshman,23.0,2.42,0,0,2,0,Not applicable,
+C249,Tennessee State University,Civil Engineering,Freshman,27.0,3.09,0,0,3,0,Not applicable,
+C250,Tennessee State University,Aerospace Engineering,Freshman,27.0,3.13,1,0,2,0,Not applicable,
+C251,Morgan State University,Biomedical Engineering,Junior,85.0,2.87,1,0,4,0,Not applicable,
+C252,Virginia Tech,Civil Engineering,Senior,120.0,2.66,1,0,3,0,Employed,1
+C253,Morgan State University,Civil Engineering,Sophomore,58.0,2.74,0,1,3,0,Not applicable,
+C254,Prairie View A&M,Chemical Engineering,Junior,86.0,3.85,1,0,3,1,Not applicable,
+C255,Morgan State University,Mechanical Engineering,Freshman,,2.72,0,0,4,0,Not applicable,
+C256,Howard University,Data Science,Junior,106.0,3.53,0,0,1,0,,
+C257,Morgan State University,Electrical Engineering,Senior,130.0,2.76,1,0,2,0,Employed,1
+C258,Morgan State University,Aerospace Engineering,Senior,124.0,3.12,1,0,1,0,Employed,1
+C259,Florida A&M University,Mechanical Engineering,Junior,89.0,2.35,0,1,2,0,Not applicable,
+C260,North Carolina A&T,Aerospace Engineering,Senior,118.0,3.04,1,0,2,0,Employed,1
+C261,North Carolina A&T,Mechanical Engineering,Senior,130.0,2.99,0,0,2,0,Not seeking,0
+C262,Virginia Tech,Civil Engineering,Sophomore,52.0,3.44,1,1,1,0,Not applicable,
+C263,Tennessee State University,Biomedical Engineering,Senior,128.0,3.0,0,0,3,0,Employed,1
+C264,Howard University,Civil Engineering,Freshman,30.0,2.7,0,0,2,0,Not applicable,
+C265,Florida A&M University,Data Science,Sophomore,67.0,3.27,0,1,3,0,Not applicable,
+C266,Howard University,Chemical Engineering,Junior,76.0,2.72,0,1,3,0,Not applicable,
+C267,North Carolina A&T,Computer Science,Sophomore,75.0,3.62,0,0,3,1,Not applicable,
+C268,Tennessee State University,Mechanical Engineering,Senior,127.0,3.15,0,1,1,0,Employed,1
+C269,Florida A&M University,Mechanical Engineering,Junior,79.0,2.7,0,0,1,0,Not applicable,
+C270,Spelman College,Civil Engineering,Senior,121.0,,1,1,1,0,Grad School,1
+C271,Virginia Tech,Biomedical Engineering,Junior,98.0,3.13,0,0,4,0,Not applicable,
+C272,Florida A&M University,Computer Science,Junior,105.0,2.36,1,0,1,0,Not applicable,
+C273,North Carolina A&T,Biomedical Engineering,Senior,105.0,3.12,1,0,3,0,Employed,1
+C274,Howard University,Chemical Engineering,Sophomore,64.0,3.14,1,0,4,0,Not applicable,
+C275,Tennessee State University,Aerospace Engineering,Sophomore,56.0,2.83,1,0,2,0,Not applicable,
+C276,Virginia Tech,Computer Science,Senior,127.0,2.88,1,0,0,0,Employed,1
+C277,North Carolina A&T,Electrical Engineering,Sophomore,58.0,2.62,0,0,4,0,Not applicable,
+C278,Tennessee State University,Mechanical Engineering,Senior,119.0,2.92,1,0,2,0,Searching,1
+C279,Prairie View A&M,Computer Science,Senior,120.0,3.01,0,1,1,0,Employed,1
+C280,Prairie View A&M,Chemical Engineering,Junior,79.0,2.82,0,0,3,0,Not applicable,
+C281,Tennessee State University,Electrical Engineering,Senior,113.0,3.01,0,0,1,0,Grad School,1
+C282,Virginia Tech,Civil Engineering,Senior,107.0,2.98,1,0,1,0,Employed,1
+C283,Morgan State University,Data Science,Junior,91.0,2.95,0,1,1,0,Not applicable,
+C284,Tennessee State University,Aerospace Engineering,Sophomore,60.0,3.07,0,0,1,0,Not applicable,
+C285,Morgan State University,Civil Engineering,Senior,105.0,3.02,1,0,4,0,Employed,1
+C286,Prairie View A&M,Aerospace Engineering,Senior,115.0,3.1,0,0,3,0,Employed,1
+C287,Florida A&M University,Computer Science,Sophomore,62.0,3.39,0,1,4,0,Not applicable,
+C288,Prairie View A&M,Data Science,Senior,117.0,2.73,1,1,3,0,Searching,1
+C289,Prairie View A&M,Chemical Engineering,Senior,125.0,3.3,1,1,3,0,Employed,1
+C290,Prairie View A&M,Civil Engineering,Sophomore,52.0,2.9,0,0,1,0,Not applicable,
+C291,Morgan State University,Data Science,Junior,99.0,2.69,0,0,3,0,Not applicable,
+C292,Spelman College,Civil Engineering,Sophomore,54.0,2.54,1,0,3,0,Not applicable,
+C293,Florida A&M University,Electrical Engineering,Sophomore,64.0,2.76,0,0,1,0,Not applicable,
+C294,Morgan State University,Mechanical Engineering,Senior,113.0,3.1,0,0,3,0,Employed,1
+C295,Morgan State University,Mechanical Engineering,Sophomore,60.0,2.46,0,0,1,0,Not applicable,
+C296,Spelman College,Biomedical Engineering,Junior,97.0,3.18,0,1,2,0,Not applicable,
+C297,Prairie View A&M,Electrical Engineering,Senior,110.0,3.27,1,1,3,0,Employed,1
+C298,Tennessee State University,Chemical Engineering,Senior,114.0,3.83,1,1,4,0,Grad School,1
+C299,North Carolina A&T,Civil Engineering,Freshman,39.0,2.94,0,0,1,0,Not applicable,
+C300,Tennessee State University,Aerospace Engineering,Senior,120.0,3.23,0,0,3,0,Employed,0

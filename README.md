@@ -1,4 +1,5 @@
 # Python-Capstone-VB26
+College STEM Outcomes Analyzer
 Purpose:
 This program serves to visualize the data of university students from multiple aspects (such as GPA, future prospects, research, majors, etc.).  
 

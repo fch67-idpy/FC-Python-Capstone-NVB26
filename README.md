@@ -17,7 +17,7 @@ Instructions:
 -- Run all cells from top to bottom
 
 Core skills:
-pandas & dataframes, matplotlib visualization, if/elif/else conditional statements, for loops
+pandas & dataframes, matplotlib visualization, seaborn visualization
 
 One key result:
 -- GPA is a big player, it will most likely determine the number of clubs a student is in based off of their number, and (possibly) make a guess on students' major.

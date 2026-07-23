@@ -21,7 +21,7 @@ Core skills:
 pandas & dataframes, matplotlib visualization, seaborn visualization
 
 One key result:
--- GPA is a big player, it will most likely determine the number of clubs a student is in based off of their number, and (possibly) make a guess on students' major.
+-- GPA is a big player. See the data for yourself.
 
 Author:
 Felix Chow | University of California, Davis | NVB Summer 2026
